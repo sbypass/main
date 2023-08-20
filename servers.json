@@ -1,0 +1,12 @@
+[
+	{
+		"name": "Hypixel",
+		"ip": "mc.hypixel.net",
+		"type": "PC"
+	},
+	{
+		"name": "Greensmp",
+		"ip": "mc.greensmp.net",
+		"type": "PC"
+	}
+]

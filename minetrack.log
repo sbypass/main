@@ -1,0 +1,29 @@
+{"level":"warn","message":"Database logging is not enabled. You can enable it by setting \"logToDatabase\" to true in config.json. This requires sqlite3 to be installed.","timestamp":"2023-08-09T01:37:52.705Z"}
+{"level":"info","message":"Started on 0.0.0.0:8080","timestamp":"2023-08-09T01:37:52.718Z"}
+{"level":"warn","message":"No SRV records were resolved for mc.hypixel.net. Minetrack will skip attempting to resolve mc.hypixel.net SRV records for 60 minutes.","timestamp":"2023-08-09T01:37:52.722Z"}
+{"level":"warn","message":"No SRV records were resolved for mc.greensmp.net. Minetrack will skip attempting to resolve mc.greensmp.net SRV records for 60 minutes.","timestamp":"2023-08-09T01:37:52.725Z"}
+{"level":"error","message":"Failed to ping mc.greensmp.net: Socket timeout","timestamp":"2023-08-09T01:37:55.234Z"}
+{"level":"error","message":"Failed to ping mc.greensmp.net: Socket timeout","timestamp":"2023-08-09T01:37:58.232Z"}
+{"level":"error","message":"Failed to ping mc.greensmp.net: Socket timeout","timestamp":"2023-08-09T01:38:01.255Z"}
+{"level":"error","message":"Failed to ping mc.greensmp.net: Socket timeout","timestamp":"2023-08-09T01:38:04.255Z"}
+{"level":"error","message":"Failed to ping mc.greensmp.net: Socket timeout","timestamp":"2023-08-09T01:38:07.263Z"}
+{"level":"error","message":"Failed to ping mc.greensmp.net: Socket timeout","timestamp":"2023-08-09T01:38:10.271Z"}
+{"level":"error","message":"Failed to ping mc.greensmp.net: Socket timeout","timestamp":"2023-08-09T01:38:13.280Z"}
+{"level":"error","message":"Failed to ping mc.greensmp.net: Socket timeout","timestamp":"2023-08-09T01:38:16.299Z"}
+{"level":"error","message":"Failed to ping mc.greensmp.net: Socket timeout","timestamp":"2023-08-09T01:38:19.294Z"}
+{"level":"error","message":"Failed to ping mc.greensmp.net: Socket timeout","timestamp":"2023-08-09T01:38:22.317Z"}
+{"level":"error","message":"Failed to ping mc.greensmp.net: Socket timeout","timestamp":"2023-08-09T01:38:25.313Z"}
+{"level":"error","message":"Failed to ping mc.greensmp.net: Socket timeout","timestamp":"2023-08-09T01:38:28.326Z"}
+{"level":"error","message":"Failed to ping mc.greensmp.net: Socket timeout","timestamp":"2023-08-09T01:38:31.319Z"}
+{"level":"error","message":"Failed to ping mc.greensmp.net: Socket timeout","timestamp":"2023-08-09T01:38:34.337Z"}
+{"level":"error","message":"Failed to ping mc.greensmp.net: Socket timeout","timestamp":"2023-08-09T01:38:37.341Z"}
+{"level":"info","message":"127.0.0.1 requested: /","timestamp":"2023-08-09T01:39:49.259Z"}
+{"level":"info","message":"127.0.0.1 requested: /index.4465b28c.css","timestamp":"2023-08-09T01:39:49.298Z"}
+{"level":"info","message":"127.0.0.1 requested: /index.d9d71771.js","timestamp":"2023-08-09T01:39:49.301Z"}
+{"level":"info","message":"127.0.0.1 requested: /logo.e7dd16c2.svg","timestamp":"2023-08-09T01:39:49.306Z"}
+{"level":"info","message":"127.0.0.1 connected, total clients: 1","timestamp":"2023-08-09T01:39:49.822Z"}
+{"level":"info","message":"127.0.0.1 requested: /hashedfavicon_d65e410594801688ddf24552e9b86cfe.png","timestamp":"2023-08-09T01:39:49.847Z"}
+{"level":"info","message":"127.0.0.1 requested: /hashedfavicon_361f63bd5b32dead177341134824d1c3.png","timestamp":"2023-08-09T01:39:49.849Z"}
+{"level":"info","message":"127.0.0.1 requested: /icomoon.f7eef27e.ttf","timestamp":"2023-08-09T01:39:49.850Z"}
+{"level":"info","message":"127.0.0.1 requested: /logo.e7dd16c2.svg","timestamp":"2023-08-09T01:39:49.862Z"}
+{"level":"info","message":"127.0.0.1 disconnected, total clients: 0","timestamp":"2023-08-09T01:49:55.957Z"}
